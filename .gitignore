@@ -1,0 +1,6 @@
+# Ignore YOLOv8 model weights
+weights/*.pt
+*.log
+*.cache
+*.jpg
+*.png
